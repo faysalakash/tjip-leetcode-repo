@@ -1,4 +1,4 @@
-// TC = O(1)
+// TC = O(N), N = Number of elements in the list
 // MC = O(1)
 
 struct ListNode {
